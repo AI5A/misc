@@ -18,6 +18,8 @@ will get displayed. You can run this on-login and/or as a systemd user service.
 You must set `HAMALERT_USERNAME` and `HAMALERT_PASSWORD` environment variables
 before using this script.
 
+---
+
 #### `ham-radio-prefixes.apkg`
 
 This is an Anki deck I've generated for learning callsign prefixes for various
